@@ -1,0 +1,18 @@
+{
+  "Rock": 0,
+  "Electronic": 1,
+  "Experimental": 2,
+  "Hip-Hop": 3,
+  "Folk": 4,
+  "Instrumental": 5,
+  "Pop": 6,
+  "International": 7,
+  "Classical": 8,
+  "Old-Time / Historic": 9,
+  "Jazz": 10,
+  "Country": 11,
+  "Soul-RnB": 12,
+  "Spoken": 13,
+  "Blues": 14,
+  "Easy Listening": 15
+}
